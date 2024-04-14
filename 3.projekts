@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class Main {
 
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String choiseStr;
@@ -58,11 +57,20 @@ public class Main {
 	}
 
 	public static void comp(String sourceFile, String resultFile) {
-		// TODO: implement this method
+		// Vasilisa Živjuka
+		// Anastasija Semeko
+
+
+
+
 	}
 
 	public static void decomp(String sourceFile, String resultFile) {
-		// TODO: implement this method
+		// Anastasija Semeko
+		// Paula Volāne
+
+
+
 	}
 	
 	public static void size(String sourceFile) {
